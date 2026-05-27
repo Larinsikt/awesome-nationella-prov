@@ -211,4 +211,61 @@ Listan publiceras under [CC0 1.0 Universal](LICENSE) — fri att kopiera, modifi
 
 ---
 
+*Senast uppdaterad: 2026-05-27*### Träning och förberedelse
+
+- [NP-Monstret](https://npmonstret.se) – 🇸🇪 Interaktiv träning och förberedelse inför nationella prov i matematik, svenska och engelska. Anpassat för åk 6, åk 9 och gymnasiet med stöd för elever med NPF/dyslexi.
+- [Matteboken](https://www.matteboken.se) – Fri online-resurs med genomgångar, övningar och provmaterial för mellanstadiet och gymnasiet
+- [Kahoot](https://kahoot.com) – Quiz och interaktivt lärande för klassrummet
+- [Quizlet](https://quizlet.com) – Flashcards och övningar för självstudier
+- [Nearpod](https://nearpod.com) – Interaktiv lektionsplattform
+- [Mentimeter](https://mentimeter.com) – Presentation och elevrespons i realtid
+
+### Matematik-verktyg
+
+- [Geogebra](https://geogebra.org) – Fri programvara för geometri, algebra och analys
+- [Desmos](https://desmos.com/calculator) – Grafräknare direkt i webbläsaren
+- [Marcus Nordic](https://www.mneducation.se/) – Videolektioner i matematik
+- [Eddler](https://eddler.se) – Mattehjälp med fokus på nationella prov
+
+### Språk och läsning
+
+- [Bibblo](https://bibblo.se/) – Digitalt lässtöd för elever med lässvårigheter
+- [Legilexi](https://www.legilexi.org/) – Anpassade läromedel för dyslexi
+
+### Övriga verktyg
+
+- [Microsoft Education](https://www.microsoft.com/sv-se/education) – Verktyg för skolan (Classroom, Teams)
+- [Google Workspace for Education](https://edu.google.com) – Gratis verktyg för skolor
+- [Skolverktyget](https://www.skolverktyget.se/nationella-prov) – Interaktiva NP-quiz för åk 3, 6, 9
+- ⏳ [Khan Academy (svenska)](https://sv.khanacademy.org) – Under uppbyggnad
+
+---
+
+## 🤝 Bidra
+
+Hittar du en resurs som saknas eller en död länk? Öppna en [issue](../../issues/new) eller skicka en pull request.
+
+### Riktlinjer
+
+- Resursen ska vara relevant för svenska nationella prov
+- Helst svenskspråkig eller med svensk kontext
+- Skolverkets officiella resurser prioriteras
+- Inga affiliate-länkar
+- Max 1 kommersiellt verktyg per kategori
+
+---
+
+## 📝 Licens
+
+Listan publiceras under [CC0 1.0 Universal](LICENSE) — fri att kopiera, modifiera och använda utan begränsning.
+
+---
+
+## 🔗 Relaterat
+
+- [np-monstret-public](https://github.com/Larinsikt/np-monstret-public) – Publik dokumentation om NP-Monstret
+- [np-bedomning-datasets](https://github.com/Larinsikt/np-bedomning-datasets) – Öppna datasets med bedömningskriterier
+
+---
+
 *Senast uppdaterad: 2026-05-27*
